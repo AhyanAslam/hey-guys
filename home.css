@@ -1,0 +1,18 @@
+body{
+   
+    background-image: url(download.jpeg);
+    filter: blur(80 px);
+    z-index: -1;
+    background-size: cover;
+}
+.um{
+    
+    color: blue;
+}
+.head{
+    color: white;
+    background-color: black;
+}
+.og{
+    color: red;
+}
